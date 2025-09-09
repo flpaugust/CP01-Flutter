@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Futebol",
+    "image": "assets/data/soccer.jpg",
+    "description": "Imagem de uma partida de futebol",
+    "popularity": 10
+  },
+  {
+    "id": 2,
+    "name": "Basquete",
+    "image": "assets/data/basketball.jpg",
+    "description": "Imagem de uma partida de Basquete",
+    "popularity": 8.8
+  },
+  {
+    "id": 3,
+    "name": "Vôlei",
+    "image": "assets/data/volleyball.png",
+    "description": "Imagem de uma partida de Vôlei",
+    "popularity": 8
+  }
+]
